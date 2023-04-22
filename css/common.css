@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+h2 {
+    color: aqua;
+    border: solid rgb(226, 220, 220) 2px;
+    width: fit-content;
+}
+
+.link{
+    text-decoration: none;
+}
+
+
